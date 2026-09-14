@@ -9,7 +9,7 @@
 }
 ```
 
-Welcome to my data analytics hub! I am an Information Systems graduate from **Universitas Ciputra Surabaya** specializing in translating raw operational data into clear, actionable business strategies. 
+Welcome to my data analytics hub! I am an Information Systems graduate from Universitas Ciputra Surabaya specializing in translating raw operational data into clear, actionable business strategies. 
 
 ---
 
@@ -51,10 +51,3 @@ Welcome to my data analytics hub! I am an Information Systems graduate from **Un
 * **What I did:** Evaluated subscription-based user behavior data to diagnose low conversion rates and early customer churn from a social media advertising campaign.
 * **Tech Stack:** MS Excel (Power Query, XLOOKUP, Advanced Pivot Tables), Cohort Analysis.
 * **Business Insights:** Discovered that despite a 45% traffic increase, 30-day user retention dropped by 22% due to ad-product mismatch. Formulated ad-budget reallocations to save up to 15% in wasted spend.
-
----
-
-
-### 📬 Let's Connect!
-* **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/eugene-abigail-setiawan-329828319/)
-* **Email:** eoujean@email.com
